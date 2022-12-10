@@ -1,13 +1,13 @@
 {
   "name": "temp-a",
-  "version": "1.0.0",
-  "description": "模版a",
+  "version": "{{version}}",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "xhlong",
+  "author": "{{author}}",
   "license": "ISC",
   "dependencies": {}
 }
